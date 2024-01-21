@@ -1,0 +1,10 @@
+Which brand has the highest average rating?
+Which ingredients are most commonly used across all medicines?
+How many medicines are associated with each key benefit?
+What is the average price of medicines for each key benefit?
+Number of ratings for each brand, in a stacked bar chart?
+What is the total count of unique medicines?
+What are the different sizes available for our medicine bottles, In a table form?
+Which brand medicines have the highest sales?
+Create a donut chart to visualize the top 10 name of medicines.
+How many unique brands in a medicine details table.
