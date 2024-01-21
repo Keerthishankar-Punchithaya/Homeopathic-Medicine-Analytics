@@ -6,5 +6,14 @@ Number of ratings for each brand, in a stacked bar chart?
 What is the total count of unique medicines?
 What are the different sizes available for our medicine bottles, In a table form?
 Which brand medicines have the highest sales?
+Which brand medicines have the highest revenue?
 Create a donut chart to visualize the top 10 name of medicines.
 How many unique brands in a medicine details table.
+
+
+|--------------------------------------------------------|
+|__questions to complete__                               |
+|--------------------------------------------------------|			
+Which ingredients are most commonly used across all medicines?
+What is the average price of medicines for each key benefit?
+Which brand medicines have the highest sales?
